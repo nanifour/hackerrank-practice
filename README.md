@@ -1,3 +1,6 @@
-# hackerrank-practice
+# 🔋 Hackerrank Practice/Challenges 🦎
 
-Solutions to Hackerrank.com practice problems using С++, Java, Python 3, and PHP.
+Hackerrank practice problems and challenges.
+
+> Languages: 
+ С++, Java, Python 3, and PHP.
