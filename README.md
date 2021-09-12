@@ -1,4 +1,4 @@
-# 🔋 Hackerrank Practice/Challenges 🦎
+# 🔋 HackerRank Practice/Challenges 🦎
 
 Hackerrank practice problems and challenges.
 
